@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1618852712 source:c:\users\igree\desktop\lab03 cb\lab03\histogram.cpp
+	"histogram.h"
+	<vector>
+	<string>
+	<iostream>
+
+1618852712 c:\users\igree\desktop\lab03 cb\lab03\histogram.h
+	<iostream>
+	<vector>
+
+1618852712 source:c:\users\igree\desktop\lab03 cb\lab03\lab03.cpp
+	<vector>
+	"svg.h"
+	"histogram.h"
+
+1618852712 c:\users\igree\desktop\lab03 cb\lab03\svg.h
+	<iostream>
+	<vector>
+
+1618852712 source:c:\users\igree\desktop\lab03 cb\lab03\svg.cpp
+	"svg.h"
+	<vector>
+	<string>
+
